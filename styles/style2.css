@@ -1,6 +1,6 @@
 /* Aplicar a fonte Poppins a todo o corpo */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'lato', sans-serif;
     background-color: #F8F4E3;
     color: #000000;
     max-width: 1200px;
@@ -161,7 +161,6 @@ input {
 
 .service p {
     font-size: 1em;
-    color: #2068AC;
 }
 
 /* Estilos para o formulário de contato */
