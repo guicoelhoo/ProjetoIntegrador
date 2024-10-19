@@ -231,4 +231,79 @@ ul {
     list-style-type: none;
     padding: 0;
 }
+/* Estilos para links */
+a {
+    color: #000000;
+}
 
+a:hover {
+    color: #38B6FF;
+    transition: 0.3s all;
+}
+
+/* Estilos para o botão de inscrição */
+#inscreva-se-btn {
+    border: 2px solid #38B6FF;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#inscreva-se-btn:hover {
+    background-color: #38B6FF;
+    color: #000000;
+}
+
+/* Estilos para cabeçalhos */
+h1 {
+    font-size: 2.5em;
+    color: #04471C;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+    color: #2068AC;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #2068AC;
+    margin-bottom: 15px;
+}
+
+/* Estilos para parágrafos */
+p {
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto 20px;
+}
+
+/* Estilos para listas */
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto 20px;
+    text-align: left;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li strong {
+    color: #1CA600;
+}
+
+/* Estilos para a seção Sobre Nós */
+.about-us {
+    padding: 50px 0;
+    background-color: #F8F4E3;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
